@@ -1,0 +1,3 @@
+Rencana pembuatan content
+1. Tutrorial javascript
+2. Tutorial git
